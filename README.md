@@ -1,1 +1,1 @@
-# Adarsh-gupta-spring-major-starter
+Sachin Bansal - My Ecommerce App
